@@ -1,6 +1,5 @@
 <html>
 <head>
-  <title>Dasmoto's Arts & Crafts</title>
   <link href="resources/CSS/index.css" type="text/css" rel="stylesheet">
 </head>
 <body>
